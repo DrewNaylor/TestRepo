@@ -8,11 +8,11 @@ Imports System.Runtime.InteropServices
 
 ' Review the values of the assembly attributes
 
-<Assembly: AssemblyTitle("TestingProblems")>
-<Assembly: AssemblyDescription("")>
+<Assembly: AssemblyTitle("Git Problem Testing")>
+<Assembly: AssemblyDescription("I made this to see if Git was messing with my line endings.")>
 <Assembly: AssemblyCompany("")>
-<Assembly: AssemblyProduct("TestingProblems")>
-<Assembly: AssemblyCopyright("Copyright ©  2016")>
+<Assembly: AssemblyProduct("Git Problem Testing")>
+<Assembly: AssemblyCopyright("Copyright © 2016+ Drew Naylor, GPL v3+ licensed")>
 <Assembly: AssemblyTrademark("")>
 
 <Assembly: ComVisible(False)>
